@@ -19,7 +19,7 @@ function App() {
           </div>
           <Active>
               <Button type={"primary"}>See more</Button>
-              <Button type={"secondary"}>Save bbb</Button>
+              <Button type={"secondary"}>Save</Button>
           </Active>
       </Card>
           <Card>
